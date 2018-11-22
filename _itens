@@ -1,0 +1,37 @@
+vocacional.esy.es
+
+Banco: 
+http://sql55.hostinger.com.br/phpmyadmin/index.php?db=u532049944_teste&token=37188657465c96051bda1045e28737a8&phpMyAdmin=5767a3ce6256218061ccfb24baf1ebb406e19c38
+usuário: u532049944_teste
+
+Recursos do sistema    |  Acesso  |   Feito   |  Testado    
+
+Login                     Todos        Sim         Sim
+Cadastro de usuário       Todos        Sim         Sim
+Realização do teste       Todos        Sim         Sim
+Cadastro de curso         Todos        Sim         Sim
+Edição do perfil          Todos        Sim         Sim
+Sistema de Likes          Todos        Sim         Sim
+Responsividade            Todos        Sim         Sim
+Sair                      Todos        Sim         Sim
+Edição de curso           Admin        Sim         Sim
+Listagem de usuários      Admin        Sim         Sim
+Listagem de cursos        Admin        Sim         Sim
+Edição de usuários        Admin        Sim         Sim
+
+Fazer:
+
+Feito:
+Edição de senha apenas para usuário ativo
+Layout da resposta
+Sistema de likes
+Resposta para likes
+Colocar Ícone de tab
+Indicar o perfil logado
+Tratamento de sessão
+Testar retornos
+Validação de formulário
+Edição de curso gravar o id de quem editou
+Melhorar layout do header e das perguntas (colunas)
+Colocar o nome do site na index
+Não permitir cursos com o mesmo nome
