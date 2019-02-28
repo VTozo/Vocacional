@@ -1,10 +1,5 @@
-vocacional.esy.es
 
-Banco: 
-http://sql55.hostinger.com.br/phpmyadmin/index.php?db=u532049944_teste&token=37188657465c96051bda1045e28737a8&phpMyAdmin=5767a3ce6256218061ccfb24baf1ebb406e19c38
-usuário: u532049944_teste
-
-Recursos do sistema    |  Acesso  |   Feito   |  Testado    
+Funções do sistema     |  Acesso  |   Feito   |  Testado    
 
 Login                     Todos        Sim         Sim
 Cadastro de usuário       Todos        Sim         Sim
